@@ -10,7 +10,7 @@ import javax.persistence.Entity;
 @ToString
 public class basic {
 
-    //学号
+
     private Integer number;
 
     //姓名
